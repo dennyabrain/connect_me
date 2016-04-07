@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">text-to-speech</string>
+    <string name="homeScreenMessage">Lets try text to speech today</string>
+    <string name="speakButtonLabel">speak</string>
+</resources>
